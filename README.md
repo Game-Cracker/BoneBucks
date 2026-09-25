@@ -1,6 +1,6 @@
 # 🦴 Bone Bucks
 
-Welcome to **Bone Bucks (BB)**! Earn **Bone Bucks** by chatting in the stream and redeem them for rewards.
+### A currency that everyone love! Earn **Bone Bucks** by chatting in the stream and redeem them for rewards.
 
 ---
 
@@ -20,9 +20,9 @@ Welcome to **Bone Bucks (BB)**! Earn **Bone Bucks** by chatting in the stream an
 | `!bb` | Check your Bone Bucks balance |
 | `sb` | Check your share balance |
 | `!redeem item name` | Redeem items using BoneBucks |
-| `!share AMOUNT with USER` | Share BoneBucks with your friends |
+| `!share AMOUNT with USERNAME` | Share BoneBucks with your friends |
 
->  Example: !redeem absolute cinema
+> ### Example: !redeem absolute cinema
 
 ## 📦 Items for `!redeem` Command
 
@@ -39,10 +39,11 @@ Welcome to **Bone Bucks (BB)**! Earn **Bone Bucks** by chatting in the stream an
 
 ## 🤝 Bone Bucks Sharing
 You can share Bone Bucks with `!share` Command.
-> Example: !share 500 with GC
+> ### Example: !share 200 with GC
 
 **IMPORTANT NOTE**
 - Command must match the pattern `!share AMOUNT with USERNAME`
-- You can only share 500 BB per day.
+- You can only share 200 BB per day.
 - Share Limit resets every day.
-- **IF YOU DON'T COME TO STREAM FOR 15 Days, YOUR ACCOUNT WILL BE DELETED**
+
+## **IF YOU DON'T COME TO STREAM FOR 15 DAYS, YOUR ACCOUNT WILL BE DELETED**
