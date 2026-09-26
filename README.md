@@ -18,7 +18,7 @@
 | Command | Description |
 |---|---|
 | `!bb` | Check your Bone Bucks balance |
-| `sb` | Check your share balance |
+| `!sb` | Check your share balance |
 | `!redeem item name` | Redeem items using BoneBucks |
 | `!share AMOUNT with USERNAME` | Share BoneBucks with your friends |
 
