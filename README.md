@@ -31,7 +31,8 @@
 | `absolute cinema` | Plays absolute cinema | Meme | 50 BB |
 | `angry gamer` | Angry gamer destroys his setup | Meme | 70 BB |
 | `batman laugh` | Batman comes and laugh | Meme | 100 BB |
-| `cr laugh` | Clash Royal laugh emoji | Meme | 50 BB |
+| `cr cry` | Clash Royal cry emoji | Prop | 50 BB |
+| `cr laugh` | Clash Royal laugh emoji | Prop | 50 BB |
 | `hacker` | Hacker found | Meme | 150 BB |
 | `hag diya` | Plays hag diya | Meme | 100 BB |
 | `pat gc` | pat GC | Prop | 500 BB |
