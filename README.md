@@ -9,7 +9,7 @@
 | Activity | Reward |
 |---|---:|
 | Every chat message | 5 BB |
-| First chat bonus | 500 BB |
+| First chat bonus | 300 BB |
 
 ---
 
@@ -43,7 +43,7 @@ You can share Bone Bucks with `!share` Command.
 
 **IMPORTANT NOTE**
 - Command must match the pattern `!share AMOUNT with USERNAME`
-- You can only share 200 BB per day.
+- You can only share/receive 200 BB per day.
 - Share Limit resets every day.
 
 ## **IF YOU DON'T COME TO STREAM FOR 15 DAYS, YOUR ACCOUNT WILL BE DELETED**
