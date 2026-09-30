@@ -21,6 +21,7 @@
 | `!sb` | Check your share balance |
 | `!redeem item name` | Redeem items using BoneBucks |
 | `!share AMOUNT with USERNAME` | Share BoneBucks with your friends |
+| `!updatename` | Updates `USERNAME` in database if changed |
 
 > ### Example: !redeem absolute cinema
 
